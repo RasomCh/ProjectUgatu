@@ -28,21 +28,6 @@
       "sourceType": "ru.tinkoff.edu.java.bot.configuration.ApplicationConfig"
     },
     {
-      "name": "app.message.error",
-      "type": "java.lang.String",
-      "sourceType": "ru.tinkoff.edu.java.bot.configuration.ApplicationConfig$Message"
-    },
-    {
-      "name": "app.message.unsupported-link",
-      "type": "java.lang.String",
-      "sourceType": "ru.tinkoff.edu.java.bot.configuration.ApplicationConfig$Message"
-    },
-    {
-      "name": "app.message.update",
-      "type": "java.lang.String",
-      "sourceType": "ru.tinkoff.edu.java.bot.configuration.ApplicationConfig$Message"
-    },
-    {
       "name": "app.web-client",
       "type": "ru.tinkoff.edu.java.bot.configuration.WebClient",
       "sourceType": "ru.tinkoff.edu.java.bot.configuration.ApplicationConfig"
